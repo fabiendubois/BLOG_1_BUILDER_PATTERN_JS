@@ -1,0 +1,11 @@
+{
+  "name": "blog_1_builder_pattern",
+  "version": "1.0.0",
+  "description": "Blog Builder Pattern",
+  "main": "demo.js",
+  "scripts": {
+    "start": "node demo.js"
+  },
+  "author": "Fabien D",
+  "license": "ISC"
+}
