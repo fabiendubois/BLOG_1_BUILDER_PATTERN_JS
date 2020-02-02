@@ -1,3 +1,5 @@
+![Blog Illustration](./illustration.png)
+
 # Builder Pattern en JavaScript
 
 ## Définition
